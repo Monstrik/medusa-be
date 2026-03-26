@@ -25,4 +25,4 @@ build
 !.yarn/versions
 
 .medusa
-/.yarn/releases/yarn-4.12.0.cjs
+
